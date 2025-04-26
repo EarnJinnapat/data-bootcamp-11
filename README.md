@@ -1,5 +1,7 @@
 # Data Science Bootcamp Bath 11
-Data Science Bootcamp Projects
+Data Science Bootcamp Projects 🥰
+
+This class is awesome!
 
 This bootcamp runs about 4 moths, 10 sprints.
 
@@ -11,14 +13,14 @@ This bootcamp runs about 4 moths, 10 sprints.
 - Statistics
 - Machine Learning
 - Wedsite with Wordpess
-- Python
+- Python for Data Analyst
 - Dashboard
 - 
 I Love `R programming`. (in line code)
 
  ## Code Block
  ```sql
-SELECT "hello" FROM bootcamp
+SELECT "hello" FROM bootcamp;
 ```
 
   Website:
