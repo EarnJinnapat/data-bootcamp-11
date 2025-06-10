@@ -5,7 +5,7 @@
   https://www.notion.so/Pao-Ying-Chud-1974daccbe7c80408e53f0c8fdaf78cf?source=copy_link
 - Data transformation
   https://www.notion.so/Homework-Data-Transformation-19d4daccbe7c80e1b922ed4dae5d2dbc?source=copy_link
-- Data visualization
+- Data visualization with EDA
   https://www.notion.so/EDA-1fd4daccbe7c80a8b5dee0cfff036f29?source=copy_link
 - Machine  Learning
   https://www.notion.so/Project-Machine-Learning-20d4daccbe7c800c950aeb117231290a?source=copy_link
