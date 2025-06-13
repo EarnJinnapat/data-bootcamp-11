@@ -31,6 +31,7 @@
 - Freefire vs. PubG
   https://docs.google.com/spreadsheets/d/1SDIPWFixXvUY2DdsmlDQqlQefWZTkzfmAp2_QoOnYZ0/edit?usp=sharing
 - Looker studio
+  https://lookerstudio.google.com/reporting/3a3eaaef-463b-4a4e-8973-89779682d154
   
 - Tableau
   https://public.tableau.com/app/profile/jinnpat.jiranapawiboon/viz/Book1_17484550855290/Dashboard1?publish=yes
