@@ -36,4 +36,8 @@
 - Tableau
   https://public.tableau.com/app/profile/jinnpat.jiranapawiboon/viz/Book1_17484550855290/Dashboard1?publish=yes
 
+# HR data analysis
+  - SQL
+    https://www.notion.so/Project-HR-Data-analysis-21a4daccbe7c806db7a5dc0faf4a56b2?source=copy_link
+
   
